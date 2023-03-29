@@ -8,10 +8,4 @@ body {
 h1 {
     display: flex;
     justify-content: center;
-    
-}
-img {
-    display: block;
-    margin: auto;
-    width: 40%;
 }
